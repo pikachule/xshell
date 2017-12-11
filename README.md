@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/xshell](https://draculatheme.
 
 ## Team
 
-This theme is maintained by the following person and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person and a bunch of [awesome contributors](https://github.com/netsarang/xshell/graphs/contributors).
 
 [![Netsarang Computer, Inc.](https://avatars3.githubusercontent.com/u/8896211?s=200&v=4)](https://github.com/netsarang)
 
