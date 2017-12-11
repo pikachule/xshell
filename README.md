@@ -14,7 +14,7 @@ This theme is maintained by the following person and a bunch of [awesome contrib
 
 [![Netsarang Computer, Inc.](https://avatars3.githubusercontent.com/u/8896211?s=200&v=4)](https://github.com/netsarang)
 [Netsarang Computer, Inc.](https://github.com/netsarang)
-[![hoonycho12](https://avatars2.githubusercontent.com/u/14532440?v=3&s=70 =32x32)](https://github.com/hoonycho12)
+
 [hoonycho12](https://github.com/nsc-hoonycho12)
 
 ## License
